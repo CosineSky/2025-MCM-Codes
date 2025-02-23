@@ -1,0 +1,404 @@
+Year,Team,Sport,Weighted,Gold,Total,Score
+1984,Australia,Shooting,-0.97313878,0,1,2
+1984,Australia,Swimming,-0.49571434,1,20,72
+1984,Brazil,Judo,-1.115485437,0,3,9
+1984,Brazil,Swimming,-0.558490258,0,1,5
+1984,Brazil,Volleyball,-1.274626917,0,12,60
+1984,China,Fencing,-1.046980295,1,1,10
+1984,China,Gymnastics,-0.861315235,5,21,109
+1984,China,Shooting,2.479562882,3,6,36
+1984,China,Volleyball,-1.206121775,10,10,100
+1984,France,Judo,-1.0134336,0,3,9
+1984,Italy,Fencing,-1.016079554,22,38,258
+1984,Italy,Judo,-1.016079554,0,1,5
+1984,Italy,Shooting,-0.936508814,1,3,17
+1984,Italy,Volleyball,-1.175221034,0,12,24
+1984,Japan,Gymnastics,-0.742963802,3,14,61
+1984,Japan,Judo,-0.928628862,4,5,42
+1984,Japan,Shooting,-0.849058122,1,1,10
+1984,Japan,Volleyball,-1.087770341,0,12,24
+1984,United States,Equestrianism,-0.583205413,9,11,100
+1984,United States,Fencing,-0.530158253,0,1,2
+1984,United States,Gymnastics,1.034295782,10,26,162
+1984,United States,Judo,-0.530158253,0,2,7
+1984,United States,Shooting,-0.450587513,3,6,39
+1984,United States,Swimming,0.026836926,50,63,565
+1984,United States,Volleyball,-0.689299733,12,24,180
+1988,Australia,Swimming,-0.43459734,1,3,17
+1988,Australia,Tennis,-1.150733999,0,2,4
+1988,Brazil,Judo,0.728516013,1,1,10
+1988,Canada,Equestrianism,-1.007017249,0,4,8
+1988,China,Gymnastics,-0.784489933,1,2,12
+1988,China,Shooting,2.529864604,0,2,7
+1988,China,Swimming,-0.386636233,0,4,17
+1988,China,Volleyball,-1.155820053,0,11,22
+1988,France,Judo,-0.9680878,1,2,12
+1988,Italy,Fencing,-0.968925904,2,24,94
+1988,Italy,Swimming,-0.358883565,0,1,2
+1988,Japan,Gymnastics,-0.524332926,0,7,14
+1988,Japan,Judo,-0.763045145,1,4,16
+1988,Japan,Shooting,-0.656950825,0,1,5
+1988,Japan,Swimming,-0.126479226,1,1,10
+1988,United States,Equestrianism,-0.456676934,0,5,25
+1988,United States,Gymnastics,1.187347841,0,1,2
+1988,United States,Judo,-0.430153354,0,2,7
+1988,United States,Shooting,-0.324059034,0,1,5
+1988,United States,Swimming,0.206412565,24,45,318
+1988,United States,Tennis,-0.509724094,4,7,49
+1988,United States,Volleyball,-0.562771254,12,12,120
+1992,Australia,Equestrianism,-1.096308219,5,5,50
+1992,Australia,Swimming,-0.40906763,1,9,35
+1992,Australia,Tennis,-1.12520429,0,2,4
+1992,Brazil,Judo,0.920293313,1,1,10
+1992,Brazil,Swimming,-0.467191128,0,1,5
+1992,Brazil,Volleyball,-1.236374947,12,12,120
+1992,China,Badminton,-1.086537124,0,2,4
+1992,China,Fencing,-1.006966384,0,1,5
+1992,China,Gymnastics,-0.794777744,2,13,69
+1992,China,Judo,-0.847824904,1,3,14
+1992,China,Shooting,2.519576793,2,4,30
+1992,China,Swimming,-0.396924045,4,13,85
+1992,France,Judo,-0.719345461,2,7,33
+1992,Germany,Equestrianism,-0.787483582,6,13,80
+1992,Indonesia,Badminton,-1.25578472,2,4,27
+1992,Italy,Fencing,-0.905530385,12,14,130
+1992,Italy,Judo,-0.746388905,0,1,5
+1992,Italy,Shooting,-0.825959645,0,2,4
+1992,Italy,Swimming,-0.295488045,0,2,4
+1992,Japan,Gymnastics,-0.45448751,0,8,19
+1992,Japan,Judo,-0.50753467,2,10,48
+1992,Japan,Shooting,-0.58710541,0,2,7
+1992,Japan,Swimming,-0.05663381,1,1,10
+1992,South Korea,Badminton,-1.128223646,0,1,5
+1992,Switzerland,Tennis,-1.218842483,1,1,10
+1992,United States,Equestrianism,-0.32549902,0,5,10
+1992,United States,Gymnastics,1.318525754,1,11,36
+1992,United States,Judo,-0.113310381,0,1,5
+1992,United States,Shooting,-0.19288112,1,2,15
+1992,United States,Swimming,0.337590479,35,56,419
+1992,United States,Tennis,-0.37854618,3,4,32
+1992,United States,Volleyball,-0.43159334,0,24,48
+1996,Australia,Equestrianism,-0.999305003,4,4,40
+1996,Australia,Shooting,-0.813639944,2,3,22
+1996,Australia,Swimming,6.354454788,2,25,93
+1996,Australia,Tennis,-1.052352163,2,2,20
+1996,Brazil,Equestrianism,-1.080238094,0,4,8
+1996,Brazil,Judo,1.659730333,0,2,4
+1996,Brazil,Swimming,-0.390625015,0,3,9
+1996,Brazil,Volleyball,-1.186332414,0,12,24
+1996,China,Badminton,-1.034017763,0,3,9
+1996,China,Gymnastics,-0.742258383,1,12,62
+1996,China,Judo,-0.795305543,1,2,12
+1996,China,Shooting,2.625143314,2,5,32
+1996,China,Swimming,-0.317881103,1,12,50
+1996,China,Volleyball,-1.060541343,0,9,45
+1996,France,Judo,-0.71181136,3,6,36
+1996,Germany,Equestrianism,-0.763973131,10,10,100
+1996,Indonesia,Badminton,-1.249456349,2,4,27
+1996,Italy,Fencing,-0.839596152,14,30,196
+1996,Italy,Gymnastics,-0.680454672,1,1,10
+1996,Italy,Judo,-0.733501832,0,2,7
+1996,Italy,Shooting,-0.760025412,2,5,29
+1996,Italy,Swimming,-0.256077393,0,1,2
+1996,Italy,Volleyball,-0.998737632,0,12,60
+1996,Japan,Judo,-0.391329961,3,8,52
+1996,Russia,Fencing,-0.890286597,8,15,106
+1996,Russia,Gymnastics,-0.731145117,9,20,136
+1996,Russia,Shooting,-0.810715857,3,6,42
+1996,Russia,Swimming,-0.306767838,4,19,109
+1996,South Korea,Badminton,-1.065011067,1,1,10
+1996,United States,Equestrianism,-0.132665351,0,13,50
+1996,United States,Gymnastics,1.511359424,8,11,92
+1996,United States,Judo,0.079523289,0,1,2
+1996,United States,Shooting,0.052999709,1,3,17
+1996,United States,Swimming,0.556947729,47,60,529
+1996,United States,Tennis,-0.185712511,4,4,40
+2000,Australia,Equestrianism,-0.91139976,4,5,45
+2000,Australia,Judo,-0.69921112,0,1,2
+2000,Australia,Shooting,-0.67268754,1,3,17
+2000,Australia,Swimming,7.131754519,15,46,293
+2000,Australia,Tennis,-0.96444692,0,2,10
+2000,Brazil,Equestrianism,-1.105575796,0,4,8
+2000,Brazil,Judo,1.634392631,0,2,10
+2000,Brazil,Swimming,-0.415962717,0,4,8
+2000,Brazil,Volleyball,-1.158622956,0,12,24
+2000,China,Badminton,0.521119651,2,6,34
+2000,China,Fencing,-0.878250199,0,6,21
+2000,China,Gymnastics,-0.719108719,8,12,94
+2000,China,Judo,-0.772155879,2,4,27
+2000,China,Shooting,2.701340138,3,8,46
+2000,France,Judo,-0.726488816,2,6,34
+2000,Germany,Equestrianism,-0.844362747,8,10,87
+2000,Indonesia,Badminton,-1.25509721,2,3,25
+2000,Italy,Fencing,-0.858638665,16,26,180
+2000,Italy,Judo,-0.752544345,1,4,16
+2000,Italy,Shooting,-0.726020765,0,2,7
+2000,Italy,Swimming,-0.275119905,3,6,39
+2000,Italy,Volleyball,-1.017780145,0,12,24
+2000,Japan,Judo,-0.421811463,4,8,54
+2000,Japan,Swimming,0.055612977,0,7,20
+2000,Russia,Fencing,-0.882936948,8,9,82
+2000,Russia,Gymnastics,-0.723795468,5,25,120
+2000,Russia,Judo,-0.776842628,0,3,9
+2000,Russia,Shooting,-0.750319048,1,6,29
+2000,Russia,Swimming,-0.299418188,0,2,7
+2000,Russia,Tennis,-1.042078428,1,2,15
+2000,Russia,Volleyball,-1.042078428,0,24,120
+2000,United States,Equestrianism,0.048368799,1,9,26
+2000,United States,Gymnastics,1.745440734,0,6,12
+2000,United States,Shooting,0.287081019,1,3,14
+2000,United States,Swimming,0.737981878,37,66,482
+2000,United States,Tennis,-0.004678361,3,4,32
+2004,Australia,Shooting,-0.666957178,1,2,12
+2004,Australia,Swimming,7.084437722,17,31,231
+2004,Australia,Tennis,-0.985240137,0,1,2
+2004,Brazil,Equestrianism,-1.070562071,1,1,10
+2004,Brazil,Judo,-0.858373431,0,2,4
+2004,Brazil,Volleyball,-0.893811068,12,12,120
+2004,China,Badminton,0.634259588,1,4,22
+2004,China,Fencing,-0.765110262,0,6,30
+2004,China,Gymnastics,-0.552921622,1,3,14
+2004,China,Judo,-0.659015942,1,5,21
+2004,China,Shooting,2.867527235,4,9,56
+2004,China,Swimming,-0.181591502,1,6,35
+2004,China,Volleyball,-0.924251742,12,12,120
+2004,France,Judo,-0.658580326,0,1,5
+2004,Germany,Equestrianism,-0.747536745,4,9,53
+2004,Indonesia,Badminton,-1.249824239,1,2,12
+2004,Italy,Fencing,-0.786792526,10,22,154
+2004,Italy,Gymnastics,-0.574603886,1,2,12
+2004,Italy,Judo,-0.680698206,0,1,2
+2004,Italy,Shooting,-0.601127466,1,3,20
+2004,Italy,Swimming,-0.203273766,0,7,17
+2004,Italy,Volleyball,-0.945934006,0,12,60
+2004,Japan,Gymnastics,-0.300515141,6,9,69
+2004,Japan,Judo,-0.406609461,8,10,90
+2004,Japan,Swimming,0.070814979,3,11,49
+2004,Russia,Fencing,-0.856761111,4,13,58
+2004,Russia,Gymnastics,-0.644572471,0,8,19
+2004,Russia,Judo,-0.750666791,0,5,16
+2004,Russia,Shooting,-0.671096051,3,10,56
+2004,Russia,Swimming,-0.273242351,0,1,5
+2004,Russia,Volleyball,-1.015902591,0,22,74
+2004,South Korea,Badminton,-1.076314161,0,3,15
+2004,United States,Equestrianism,0.223849852,4,15,68
+2004,United States,Fencing,0.329944172,1,2,12
+2004,United States,Gymnastics,1.920921787,2,19,102
+2004,United States,Judo,0.436038492,0,1,2
+2004,United States,Shooting,0.515609232,2,3,25
+2004,United States,Swimming,8.267004131,30,65,436
+2004,United States,Tennis,0.197326272,0,1,5
+2008,Australia,Equestrianism,-0.93039815,0,5,25
+2008,Australia,Shooting,-0.63863877,0,1,2
+2008,Australia,Swimming,7.112756129,19,54,299
+2008,Brazil,Judo,-0.749545098,0,3,6
+2008,Brazil,Swimming,-0.272120659,1,2,12
+2008,Brazil,Volleyball,-0.784982735,12,24,180
+2008,Canada,Equestrianism,-0.928135887,1,5,30
+2008,China,Badminton,1.924695413,2,4,27
+2008,China,Fencing,0.525325563,1,5,30
+2008,China,Gymnastics,0.737514202,19,24,203
+2008,China,Judo,0.631419883,3,4,32
+2008,China,Shooting,4.15796306,5,8,62
+2008,China,Swimming,1.108844322,1,14,57
+2008,China,Volleyball,0.366184083,0,12,24
+2008,France,Judo,-0.583363742,0,4,14
+2008,Germany,Equestrianism,-0.665605399,6,8,67
+2008,Indonesia,Badminton,-1.2278191,0,1,2
+2008,Italy,Fencing,-0.044230611,4,32,96
+2008,Italy,Judo,-0.627530778,1,1,10
+2008,Italy,Shooting,-0.547960038,1,3,20
+2008,Italy,Swimming,-0.150106339,1,2,15
+2008,Japan,Fencing,-0.473713015,0,1,5
+2008,Japan,Gymnastics,-0.261524376,0,7,35
+2008,Japan,Judo,-0.367618696,4,7,49
+2008,Japan,Swimming,0.109805744,2,8,32
+2008,Russia,Fencing,-0.739940039,4,4,40
+2008,Russia,Gymnastics,-0.527751399,0,2,4
+2008,Russia,Shooting,-0.554274979,0,4,14
+2008,Russia,Swimming,-0.156421279,1,8,39
+2008,Russia,Tennis,-0.872557939,1,3,17
+2008,Russia,Volleyball,-0.899081519,0,12,24
+2008,Switzerland,Tennis,-1.188385535,2,2,20
+2008,United States,Equestrianism,1.868437672,4,6,47
+2008,United States,Fencing,0.595743017,1,13,58
+2008,United States,Gymnastics,2.186720632,2,20,89
+2008,United States,Judo,0.701837337,0,1,2
+2008,United States,Shooting,0.728360917,2,6,34
+2008,United States,Swimming,8.532802976,31,68,447
+2008,United States,Volleyball,0.6663997,12,24,180
+2012,Australia,Swimming,-0.212184056,7,32,171
+2012,Brazil,Gymnastics,-0.582932055,1,1,10
+2012,Brazil,Judo,-0.689026375,1,4,16
+2012,Brazil,Swimming,-0.211601935,0,2,7
+2012,Brazil,Volleyball,-0.724464012,12,24,180
+2012,China,Badminton,1.269112138,2,4,27
+2012,China,Fencing,-0.130257712,5,6,52
+2012,China,Gymnastics,0.081930928,8,12,97
+2012,China,Judo,-0.024163392,0,2,7
+2012,China,Shooting,3.449332625,2,7,36
+2012,China,Swimming,0.453261047,5,15,76
+2012,France,Judo,-0.614860316,2,7,30
+2012,Germany,Equestrianism,-0.707765907,6,10,77
+2012,Italy,Fencing,-0.108644964,18,32,220
+2012,Italy,Gymnastics,-0.585850812,0,1,2
+2012,Italy,Judo,-0.691945132,0,1,2
+2012,Italy,Shooting,-0.665421552,2,5,35
+2012,Italy,Swimming,-0.214520692,0,1,2
+2012,Italy,Volleyball,-0.957180931,0,12,24
+2012,Japan,Fencing,-0.380391521,0,4,20
+2012,Japan,Gymnastics,-0.168202882,1,7,40
+2012,Japan,Judo,-0.274297201,1,7,31
+2012,Japan,Swimming,0.203127238,0,17,52
+2012,Japan,Volleyball,-0.539533001,0,12,24
+2012,Russia,Badminton,-0.853069769,0,2,4
+2012,Russia,Fencing,-0.720451869,0,6,27
+2012,Russia,Gymnastics,-0.508263229,1,12,53
+2012,Russia,Judo,-0.614357549,3,5,37
+2012,Russia,Shooting,-0.587833969,0,1,2
+2012,Russia,Swimming,-0.13693311,0,9,24
+2012,Russia,Tennis,-0.853069769,0,1,5
+2012,Russia,Volleyball,-0.879593349,12,12,120
+2012,Switzerland,Tennis,-1.172560467,0,1,5
+2012,United States,Fencing,0.710423276,0,4,8
+2012,United States,Gymnastics,2.301400891,7,10,79
+2012,United States,Judo,0.816517596,1,2,12
+2012,United States,Shooting,0.843041176,3,4,32
+2012,United States,Swimming,8.647483235,41,68,512
+2012,United States,Tennis,0.577805376,1,1,10
+2012,United States,Volleyball,0.551281796,0,12,60
+2016,Australia,Equestrianism,-0.930212308,0,4,8
+2016,Australia,Shooting,-0.691500089,1,1,10
+2016,Australia,Swimming,-0.240599229,7,32,162
+2016,Brazil,Gymnastics,0.408734139,0,3,12
+2016,Brazil,Judo,0.302639819,1,3,14
+2016,Brazil,Shooting,0.329163399,0,1,5
+2016,Brazil,Swimming,0.780064258,0,1,2
+2016,Brazil,Volleyball,0.267202181,12,12,120
+2016,Canada,Equestrianism,-0.950685793,0,1,2
+2016,China,Badminton,1.540719328,1,1,10
+2016,China,Fencing,0.141349478,0,5,22
+2016,China,Gymnastics,0.353538118,0,10,20
+2016,China,Judo,0.247443798,0,2,4
+2016,China,Shooting,3.720939815,1,7,28
+2016,China,Swimming,0.724868238,1,6,26
+2016,China,Volleyball,0.212006161,12,12,120
+2016,France,Judo,-0.602274079,2,5,32
+2016,Germany,Equestrianism,-0.700021264,5,15,85
+2016,Italy,Fencing,-0.81026466,2,14,80
+2016,Italy,Judo,-0.70417034,1,2,15
+2016,Italy,Shooting,-0.67764676,4,7,55
+2016,Italy,Swimming,-0.226745901,1,4,19
+2016,Italy,Volleyball,-0.96940614,0,12,60
+2016,Japan,Badminton,-0.620531182,2,3,22
+2016,Japan,Gymnastics,-0.275724642,6,7,62
+2016,Japan,Judo,-0.381818962,3,12,51
+2016,Japan,Swimming,0.095605478,2,10,42
+2016,Japan,Tennis,-0.620531182,0,1,2
+2016,Russia,Fencing,0.050772822,9,15,105
+2016,Russia,Gymnastics,-0.656231188,1,16,76
+2016,Russia,Judo,-0.762325508,2,3,22
+2016,Russia,Shooting,-0.735801928,0,4,14
+2016,Russia,Swimming,-0.284901068,0,4,14
+2016,Switzerland,Tennis,-1.161773382,0,2,10
+2016,United States,Equestrianism,2.245464033,0,9,30
+2016,United States,Fencing,0.972769378,0,10,26
+2016,United States,Gymnastics,1.184958017,8,16,114
+2016,United States,Judo,1.078863697,1,2,15
+2016,United States,Shooting,1.105387277,1,3,14
+2016,United States,Swimming,1.556288137,48,71,568
+2016,United States,Volleyball,0.813627898,0,24,48
+2020,Australia,Swimming,-0.098574485,20,53,275
+2020,Australia,Tennis,-1.026899785,0,2,4
+2020,Brazil,Judo,-0.709262255,0,2,4
+2020,Brazil,Swimming,-0.178790656,0,2,4
+2020,Brazil,Tennis,-1.107115955,0,2,4
+2020,Brazil,Volleyball,-1.001021635,0,12,60
+2020,China,Badminton,0.269816696,3,10,65
+2020,China,Fencing,0.588099655,1,1,10
+2020,China,Shooting,4.114642833,6,13,77
+2020,China,Swimming,1.198141995,8,14,107
+2020,France,Judo,-0.544536366,12,18,141
+2020,France,Volleyball,-0.836295746,12,12,120
+2020,Germany,Equestrian,0.746313233,6,7,65
+2020,Indonesia,Badminton,-1.30437663,2,3,22
+2020,Italy,Fencing,-0.702370403,0,28,92
+2020,Italy,Judo,-0.622799663,0,2,4
+2020,Italy,Shooting,-0.622799663,0,1,5
+2020,Italy,Swimming,-0.092328063,0,13,44
+2020,Japan,Badminton,1.871238831,0,2,4
+2020,Japan,Fencing,0.657534041,4,4,40
+2020,Japan,Judo,0.737104781,9,23,157
+2020,Japan,Swimming,1.267576381,2,3,25
+2020,Russia,Fencing,0.191053085,9,20,142
+2020,Russia,Judo,-0.648568825,0,3,6
+2020,Russia,Shooting,-0.648568825,2,10,51
+2020,Russia,Swimming,-0.118097226,2,10,57
+2020,Russia,Tennis,-1.046422525,2,5,35
+2020,Russia,Volleyball,-0.940328205,0,12,60
+2020,South Korea,Badminton,-1.112827905,0,2,4
+2020,Switzerland,Tennis,-1.269436637,1,3,20
+2020,United States,Fencing,1.340121773,1,5,18
+2020,United States,Shooting,1.419692513,3,8,49
+2020,United States,Swimming,1.950164113,22,59,360
+2020,United States,Volleyball,1.127933133,12,12,120
+2024,Australia,Shooting,-0.581680872,0,1,2
+2024,Australia,Swimming,-0.051209273,17,51,295
+2024,Australia,Tennis,-0.979534572,2,2,20
+2024,Brazil,Judo,-0.645600124,1,13,37
+2024,Brazil,Volleyball,-0.990406664,0,13,26
+2024,Canada,Fencing,-0.666352718,0,1,2
+2024,China,Badminton,0.609462849,4,9,65
+2024,China,Judo,1.007316549,0,1,2
+2024,China,Shooting,1.007316549,6,12,78
+2024,China,Swimming,1.537788149,6,36,144
+2024,China,Tennis,0.609462849,1,3,20
+2024,France,Judo,0.558582761,15,23,172
+2024,France,Volleyball,0.213776221,13,13,130
+2024,Germany,Equestrian,0.842606259,7,8,75
+2024,Indonesia,Badminton,-1.270294456,0,1,2
+2024,Italy,Fencing,-0.620949256,8,28,174
+2024,Italy,Judo,-0.541378516,1,1,10
+2024,Italy,Shooting,-0.541378516,2,5,32
+2024,Italy,Swimming,-0.010906917,2,8,32
+2024,Italy,Tennis,-0.939232216,2,3,22
+2024,Italy,Volleyball,-0.886185056,13,13,130
+2024,Japan,Badminton,0.753827325,0,4,8
+2024,Japan,Fencing,-0.459877466,5,17,86
+2024,Japan,Judo,-0.380306726,3,21,111
+2024,Japan,Swimming,0.150164874,0,1,5
+2024,United States,Fencing,2.105159176,5,7,57
+2024,United States,Shooting,2.184729916,1,6,32
+2024,United States,Swimming,2.715201515,27,69,459
+2024,United States,Tennis,1.786876216,0,4,14
+2024,United States,Volleyball,1.839923376,0,26,91
+2028,Australia,Shooting,-0.093594551,-1,-1,-1
+2028,Australia,Swimming,2.697661136,-1,-1,-1
+2028,Australia,Tennis,-2.187036315,-1,-1,-1
+2028,Brazil,Judo,-0.138145276,-1,-1,-1
+2028,Brazil,Volleyball,-1.952461472,-1,-1,-1
+2028,Canada,Fencing,-0.50389621,-1,-1,-1
+2028,China,Shooting,1.958308861,-1,-1,-1
+2028,China,Swimming,4.749564548,-1,-1,-1
+2028,China,Badminton,-0.135132903,-1,-1,-1
+2028,China,Judo,1.958308861,-1,-1,-1
+2028,China,Tennis,-0.135132903,-1,-1,-1
+2028,France,Judo,1.057909585,-1,-1,-1
+2028,France,Volleyball,-0.756406611,-1,-1,-1
+2028,Germany,Equestrian,-1.028020391,-1,-1,-1
+2028,Indonesia,Badminton,-2.46235956,-1,-1,-1
+2028,Italy,Fencing,-0.475546739,-1,-1,-1
+2028,Italy,Judo,-0.056858386,-1,-1,-1
+2028,Italy,Shooting,-0.056858386,-1,-1,-1
+2028,Italy,Volleyball,-1.871174583,-1,-1,-1
+2028,Italy,Swimming,2.7343973,-1,-1,-1
+2028,Italy,Tennis,-2.150300151,-1,-1,-1
+2028,Japan,Judo,0.162271054,-1,-1,-1
+2028,Japan,Swimming,2.953526741,-1,-1,-1
+2028,Japan,Fencing,-0.256417299,-1,-1,-1
+2028,Japan,Badminton,-1.93117071,-1,-1,-1
+2028,United States,Fencing,2.705457964,-1,-1,-1
+2028,United States,Shooting,3.124146317,-1,-1,-1
+2028,United States,Swimming,5.915402003,-1,-1,-1
+2028,United States,Volleyball,1.309830121,-1,-1,-1
+2028,United States,Tennis,1.030704552,-1,-1,-1

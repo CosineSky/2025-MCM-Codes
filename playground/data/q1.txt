@@ -1,0 +1,279 @@
+                                    Team  probability
+104                              Pampero     0.525048
+85                           North Yemen     0.409238
+69                           South Sudan     0.271667
+44                                Malaya     0.264667
+56                  Refugee Olympic Team     0.260000
+26                Bosnia and Herzegovina     0.240000
+0                                 Angola     0.240000
+84                              Athens-2     0.186278
+82   Panhellenios Gymnastikos Syllogos-1     0.186278
+83                   Dansk Idrts Forbund     0.186278
+87                                 Crete     0.186278
+23                                  Saar     0.180000
+14                   Congo (Brazzaville)     0.150000
+36                         South Vietnam     0.130000
+77                              Poland-2     0.120000
+
+进程已结束，退出代码为 0
+
+
+{2028, 'United States'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              51                42   
+59                   China              37                28   
+13           Great Britain              19                18   
+99                  Russia              19                18   
+1                Australia              16                15   
+19                   Japan              15                 9   
+78                 Germany              12                12   
+22             Netherlands              12                 7   
+72    Netherlands Antilles              11                 7   
+18                   Italy              11                12
+
+     Predicted_Bronze  Predicted_Total  
+35                 33              121  
+59                 21               88  
+13                 17               55  
+99                 22               58  
+1                  17               48   
+19                 13               40  
+78                  9               33  
+22                  9               28  
+72                  8               26  
+18                 16               38  
+
+{2024, 'France'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              39                41   
+59                   China              37                28   
+11                  France              20                25   
+13           Great Britain              19                18   
+99                  Russia              19                18   
+1                Australia              18                19   
+19                   Japan              15                13   
+78                 Germany              12                12   
+22             Netherlands              13                 7
+18                   Italy              11                13   
+
+     Predicted_Bronze  Predicted_Total  
+35                 42              122  
+59                 21               88  
+11                 21               63  
+13                 17               55  
+99                 22               58  
+1                  17               54  
+19                 13               44  
+78                  9               33  
+22                 12               32  
+18                 16               39
+
+{2020, 'Japan'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              39                40   
+59                   China              37                30   
+19                   Japan              27                15   
+13           Great Britain              22                20   
+99                  Russia              18                28   
+86            Unified Team              15                18   
+1                Australia              15                 9   
+78                 Germany              10                10   
+11                  France              10                13   
+18                   Italy              10                10   
+29             South Korea               9                 6  
+
+     Predicted_Bronze  Predicted_Total  
+35                 34              113  
+59                 20               87  
+19                 19               57  
+13                 18               59  
+99                 22               68  
+86                 13               33  
+1                  22               46  
+78                 15               35  
+11                 12               34  
+18                 18               38
+29                  8               23  
+
+{2016, 'Brazil'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              43                33   
+59                   China              27                20   
+13           Great Britain              26                20   
+99                  Russia              18                18   
+78                 Germany              17                11   
+3                   Brazil              15                11   
+12                   Ghana              11                 7   
+19                   Japan              10                 9   
+11                  France              10                17   
+1                Australia              10                10  
+
+     Predicted_Bronze  Predicted_Total  
+35                 34              111  
+59                 25               72  
+13                 18               63  
+99                 22               58  
+78                 14               41  
+3                  11               39  
+12                  9               24  
+19                 20               39  
+11                 13               41  
+1                  10               30  
+
+{2012, 'Great Britain'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              43                30   
+59                   China              35                26   
+13           Great Britain              28                20   
+99                  Russia              19                19   
+78                 Germany              16                11   
+1                Australia              12                12   
+12                   Ghana              11                 6   
+29             South Korea              11                 9   
+114   United Arab Emirates              10                10   
+18                   Italy               8                 9   
+
+     Predicted_Bronze  Predicted_Total  
+35                 32              106  
+59                 19               81  
+13                 22               74  
+99                 25               63  
+78                 13               39  
+1                  14               39  
+12                  8               24  
+29                  8               28  
+114                 7               24  
+18                 11               28  
+
+{2008, 'China'}
+
+MSE for Gold: 9.130774752475247
+RMSE for Gold: 3.02171718605088
+NRMSE for Gold: 0.08166803205542919
+R² for Gold: 0.7541052298456475
+MSE for Silver: 7.140802475247526
+RMSE for Silver: 2.67222799836532
+NRMSE for Silver: 0.0685186666247518
+R² for Silver: 0.7888974028523921
+MSE for Bronze: 7.080103465346535
+RMSE for Bronze: 2.660846381388173
+NRMSE for Bronze: 0.09442866206409
+R² for Bronze: 0.7990923638189459
+MSE for Total: 34.76783663366337
+RMSE for Total: 5.896425750712322
+NRMSE for Total: 0.058964257507123224
+R² for Total: 0.882738150486007
+
+                      Team  Predicted_Gold  Predicted_Silver  \
+35           United States              39                34   
+59                   China              37                20   
+99                  Russia              24                17   
+13           Great Britain              17                13   
+78                 Germany              16                12   
+1                Australia              11                12   
+29             South Korea              11                10   
+19                   Japan              10                 8   
+114   United Arab Emirates              10                10   
+12                   Ghana               9                 6 
+
+     Predicted_Bronze  Predicted_Total  
+35                 34              109  
+59                 24               81  
+99                 26               68  
+13                 17               47  
+78                 16               43  
+1                  15               39  
+29                  8               29  
+19                 10               29  
+114                 7               24  
+12                 10               23  

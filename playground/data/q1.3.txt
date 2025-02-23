@@ -1,0 +1,27 @@
+China 最重要的K个奥运项目及其重要性和熵权：
+  - Gymnastics: 0.1927, 0.0173
+  - Athletics: 0.1881, 0.0217
+  - Judo: 0.1025, 0.0151
+  - Aquatics: 0.0867, 0.0207
+  - Table Tennis: 0.0744, 0.0216
+
+United States 最重要的K个奥运项目及其重要性和熵权：
+  - Aquatics: 0.1725, 0.0165
+  - Gymnastics: 0.1192, 0.0188
+  - Athletics: 0.1136, 0.0192
+  - Football: 0.0650, 0.0221
+  - Weightlifting: 0.0633, 0.0199
+
+Cuba 最重要的K个奥运项目及其重要性和熵权：
+  - Canoeing: 0.2649, 0.0191
+  - Judo: 0.1319, 0.0215
+  - Volleyball: 0.0856, 0.0190
+  - Boxing: 0.0530, 0.0190
+  - Taekwondo: 0.0492, 0.0210
+
+Norway 最重要的K个奥运项目及其重要性和熵权：
+  - Shooting: 0.3677, 0.0201
+  - Sailing: 0.1161, 0.0170
+  - Archery: 0.0958, 0.0209
+  - Ice Hockey: 0.0819, 0.0208
+  - Equestrian: 0.0802, 0.0207
